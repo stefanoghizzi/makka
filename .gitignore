@@ -2,9 +2,11 @@
 
 # dependencies
 /node_modules
+node_modules
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+
 
 # testing
 /coverage
@@ -12,7 +14,6 @@
 # next.js
 /.next/
 /out/
-.next
 
 # production
 /build
@@ -38,4 +39,3 @@ next-env.d.ts
 
 # Environment variables
 .env.local
-node_modules
