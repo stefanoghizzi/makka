@@ -4,7 +4,7 @@ const nextConfig = {
         remotePatterns: [
             {
                 protocol: 'https',
-                hostname: 'robohash.org',
+                hostname: 'gelato-api-live.s3.eu-west-1.amazonaws.com',
             },
         ],
     },
